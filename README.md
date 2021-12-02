@@ -1,4 +1,4 @@
-### jijijija
+### Hola soy Alberto y estoy estudiando computación y Robotica, y algo de programación.
 
 <!--
 **AlbrEZZ/AlbrEZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
